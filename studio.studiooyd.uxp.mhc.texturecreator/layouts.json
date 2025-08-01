@@ -1,0 +1,40 @@
+{
+	"image types":[
+	{
+		"layout":"Single Texture",
+		"textures":
+		{
+			"texture a":"BR"
+		}
+	},
+	{
+		"layout":"Unlit",
+		"textures":
+		{
+			"texture a":"B"
+		}
+	},
+	{
+		"layout":"Alpha",
+		"textures":
+		{
+			"texture a":"BA"
+		}
+	},
+	{
+		"layout":"Double Texture",
+		"textures":
+		{
+			"texture a":"BR",
+			"texture b":"MEO"
+		}
+	},
+	{
+		"layout":"Transparent",
+		"textures":
+		{
+			"texture a":"BR",
+			"texture b":"MESA"
+		}
+	}]
+}
